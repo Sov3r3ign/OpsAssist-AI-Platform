@@ -1,3 +1,6 @@
+This project originated as a collaborative group project. I subsequently undertook a substantial refactor, removing the original AI/Lovable-dependent functionality and rebuilding those components using conventional application architecture and code
+
+
 # OpsAssist
 
 An AI-assisted internal ticketing platform that classifies, routes, and helps resolve HR, IT, Finance, and Operations support requests — with load-balanced assignment, multi-stage approvals, an AI chatbot per ticket, and admin analytics.
