@@ -1,4 +1,4 @@
-This project originated as a collaborative group project. I subsequently undertook a substantial refactor, removing the original AI/Lovable-dependent functionality and rebuilding those components using conventional application architecture and code
+This project originated as a collaborative group project. We subsequently undertook a substantial refactor, removing the original AI/Lovable-dependent functionality and rebuilding those components using conventional application architecture and code
 
 
 # OpsAssist
